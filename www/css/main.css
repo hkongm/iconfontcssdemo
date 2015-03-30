@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Icons";
+  src: url('../fonts/Icons.eot');
+  src: url('../fonts/Icons.eot?#iefix') format('eot'), url('../fonts/Icons.woff') format('woff'), url('../fonts/Icons.ttf') format('truetype'), url('../fonts/Icons.svg#Icons') format('svg'); }
+
+/* line 10, /Users/chriscai/code/git/gulpDemo/assets/scss/_icons.scss */
+.icon-like:before, .icon-reply:before, .icon-video:before, .icon-view:before {
+  font-family: "Icons";
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+/* line 41, /Users/chriscai/code/git/gulpDemo/assets/scss/_icons.scss */
+.icon-like:before {
+  content: "\E001"; }
+
+/* line 41, /Users/chriscai/code/git/gulpDemo/assets/scss/_icons.scss */
+.icon-reply:before {
+  content: "\E002"; }
+
+/* line 41, /Users/chriscai/code/git/gulpDemo/assets/scss/_icons.scss */
+.icon-video:before {
+  content: "\E003"; }
+
+/* line 41, /Users/chriscai/code/git/gulpDemo/assets/scss/_icons.scss */
+.icon-view:before {
+  content: "\E004"; }
+
+/*# sourceMappingURL=main.css.map */
